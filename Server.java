@@ -1,7 +1,7 @@
 import java.net.*;
 import java.io.*;
 
-class Server {
+public class Server {
 
     ServerSocket server;
     Socket socket;
